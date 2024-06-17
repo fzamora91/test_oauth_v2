@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|c:\\users\\fzamora\\source\\repos\\oauthserver\\oauthserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|solutionrelative:oauthserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|c:\\users\\fzamora\\source\\repos\\oauthserver\\oauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|solutionrelative:oauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|c:\\users\\fzamora\\source\\repos\\oauthserver\\oauthserver\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|solutionrelative:oauthserver\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|c:\\users\\fzamora\\source\\repos\\oauthserver\\oauthserver\\controllers\\secretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|solutionrelative:oauthserver\\controllers\\secretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|c:\\users\\fzamora\\source\\repos\\oauthserver\\oauthserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|solutionrelative:oauthserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|c:\\users\\fzamora\\source\\repos\\oauthserver\\oauthserver\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889978F-2D50-49A5-ADE6-55F56812FE43}|OauthServer\\OauthServer.csproj|solutionrelative:oauthserver\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Constants.cs",
+              "RelativeDocumentMoniker": "OauthServer\\Constants.cs",
+              "ToolTip": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Constants.cs",
+              "RelativeToolTip": "OauthServer\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:41:13.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecretController.cs",
+              "DocumentMoniker": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Controllers\\SecretController.cs",
+              "RelativeDocumentMoniker": "OauthServer\\Controllers\\SecretController.cs",
+              "ToolTip": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Controllers\\SecretController.cs",
+              "RelativeToolTip": "OauthServer\\Controllers\\SecretController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:38:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Controllers\\OAuthController.cs",
+              "RelativeDocumentMoniker": "OauthServer\\Controllers\\OAuthController.cs",
+              "ToolTip": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Controllers\\OAuthController.cs",
+              "RelativeToolTip": "OauthServer\\Controllers\\OAuthController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:35:25.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OauthServer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OauthServer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:35:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Startup.cs",
+              "RelativeDocumentMoniker": "OauthServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Startup.cs",
+              "RelativeToolTip": "OauthServer\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:32:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Program.cs",
+              "RelativeDocumentMoniker": "OauthServer\\Program.cs",
+              "ToolTip": "C:\\Users\\fzamora\\source\\repos\\OauthServer\\OauthServer\\Program.cs",
+              "RelativeToolTip": "OauthServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:16:45.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
